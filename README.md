@@ -18,7 +18,6 @@
 <img align='center' alt='git' src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'/>
 </div>
 
-### Atualmente estudando (Atualizado em 17/07/23):
+### Atualmente estudando (Atualizado em 14/08/23):
 - SASS
-- Criando site com Redux 
-- Estudando possíveis visuais para melhorar o design do Portfólio
+- Versionamento git
