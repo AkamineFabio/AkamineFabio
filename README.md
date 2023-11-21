@@ -5,7 +5,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkamineFabio&layout=compact&theme=dracula)](https://github.com/AkamineFabio/github-readme-stats)
 
-### Tecnologias que uso atualmente (Atualizado em 13/09/23):
+### Tecnologias que uso atualmente (Atualizado em 20/11/23):
 <div style='disply: inline-block'><br>
 <img align='center' alt='html5' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/>
 <img align='center' alt='css3' src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'/>
@@ -19,6 +19,5 @@
 <img align='center' alt='git' src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'/>
 </div>
 
-### Atualmente estudando (Atualizado em 13/09/23):
+### Atualmente estudando (Atualizado em 20/11/23):
 - Cypress
-- E-commerce cms
