@@ -1,6 +1,6 @@
 # Olá! Eu sou o Fabio Akamine ✌️
 
-[![Blog](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://akaminefabio.github.io/Portfolio_Main/)](https://akaminefabio.github.io/Portfolio_Main/)
+[![Blog](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://akaminefabio.github.io/Portfolio_Main/)](https://react-portfolio-akaminefabios-projects.vercel.app/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-suzuki-akamine/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkamineFabio&layout=compact&theme=dracula)](https://github.com/AkamineFabio/github-readme-stats)
